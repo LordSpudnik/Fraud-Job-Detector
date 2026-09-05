@@ -1,0 +1,64 @@
+{
+  "fraud_distribution": {
+    "genuine": 17014,
+    "fraudulent": 866
+  },
+  "missing_values_pct": {
+    "salary_range": 83.96,
+    "department": 64.58,
+    "required_education": 45.33,
+    "benefits": 40.34,
+    "required_experience": 39.43,
+    "function": 36.1,
+    "industry": 27.42,
+    "employment_type": 19.41,
+    "company_profile": 18.5,
+    "requirements": 15.08,
+    "location": 1.94,
+    "description": 0.01,
+    "title": 0.0,
+    "job_id": 0.0,
+    "telecommuting": 0.0,
+    "has_questions": 0.0,
+    "has_company_logo": 0.0,
+    "fraudulent": 0.0
+  },
+  "top_industries": {
+    "Unknown": 4903,
+    "Information Technology and Services": 1734,
+    "Computer Software": 1376,
+    "Internet": 1062,
+    "Marketing and Advertising": 828,
+    "Education Management": 822,
+    "Financial Services": 779,
+    "Hospital & Health Care": 497,
+    "Consumer Services": 358,
+    "Telecommunications": 342
+  },
+  "fraud_rate_by_salary_presence_pct": {
+    "0": 4.28,
+    "1": 7.78
+  },
+  "top_fraud_words": {
+    "work": 1627,
+    "experience": 1435,
+    "service": 1225,
+    "skill": 1116,
+    "customer": 1006,
+    "amp": 982,
+    "product": 898,
+    "company": 870,
+    "team": 870,
+    "position": 840,
+    "project": 795,
+    "business": 744,
+    "management": 694,
+    "system": 673,
+    "year": 654,
+    "time": 652,
+    "engineering": 601,
+    "data": 589,
+    "ability": 581,
+    "new": 549
+  }
+}
